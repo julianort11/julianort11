@@ -59,8 +59,14 @@
 
 ###
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=julianort11.julianort11&left_color=purple&right_color=mediumpurple"  />
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=julianort11.julianort11&left_color=purple&right_color=mediumpurple"  />
+  <a href="https://open.spotify.com/user/280fg4sext1ri5mg2ks78kg22">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=280fg4sext1ri5mg2ks78kg22&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
